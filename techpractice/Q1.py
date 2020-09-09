@@ -1,4 +1,6 @@
 # Q1 Display the given array in reverse order
+# taking array of size n as a input from user
+
 
 array = []
 n = int(input("enter no of elements: "))
